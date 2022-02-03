@@ -1,0 +1,50 @@
+c:\users\ilayd\onedrive\belgeler\visual studio 2015\Projects\server-1\server-1\bin\Debug\server-1.exe.config
+C:\Users\berke\Desktop\server-1\server-1\server-1\bin\Debug\server-1.exe.config
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\bin\Debug\server-1.exe.config
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\bin\Debug\server-1.exe
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\bin\Debug\server-1.pdb
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\obj\Debug\server-1.csprojResolveAssemblyReference.cache
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\obj\Debug\server_1.Form1.resources
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\obj\Debug\server_1.Properties.Resources.resources
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\obj\Debug\server-1.csproj.GenerateResource.Cache
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\obj\Debug\server-1.exe
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\server\server-1\server-1\obj\Debug\server-1.pdb
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.exe.config
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.exe
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.pdb
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.exe
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.pdb
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.csprojResolveAssemblyReference.cache
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\obj\Debug\server_1.Form1.resources
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\obj\Debug\server_1.Properties.Resources.resources
+C:\Users\Ceyda\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.csproj.GenerateResource.Cache
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.exe.config
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.exe
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.pdb
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.exe
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.pdb
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.csprojResolveAssemblyReference.cache
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\obj\Debug\server_1.Form1.resources
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\obj\Debug\server_1.Properties.Resources.resources
+C:\Users\onatk\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.csproj.GenerateResource.Cache
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.exe.config
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.exe
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.pdb
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.exe
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\bin\Debug\server-1.pdb
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.csprojResolveAssemblyReference.cache
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\obj\Debug\server_1.Form1.resources
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\obj\Debug\server_1.Properties.Resources.resources
+C:\Users\berke\Desktop\server_officehour\server-1\server-1\obj\Debug\server-1.csproj.GenerateResource.Cache
+C:\Users\onatk\Desktop\Server\server-1\bin\Debug\server-1.exe.config
+C:\Users\onatk\Desktop\Server\server-1\obj\Debug\server-1.exe
+C:\Users\onatk\Desktop\Server\server-1\obj\Debug\server-1.pdb
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\bin\Debug\server-1.exe.config
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\obj\Debug\server-1.exe
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\obj\Debug\server-1.pdb
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\bin\Debug\server-1.exe
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\bin\Debug\server-1.pdb
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\obj\Debug\server-1.csprojResolveAssemblyReference.cache
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\obj\Debug\server_1.Form1.resources
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\obj\Debug\server_1.Properties.Resources.resources
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Server\server-1\obj\Debug\server-1.csproj.GenerateResource.Cache

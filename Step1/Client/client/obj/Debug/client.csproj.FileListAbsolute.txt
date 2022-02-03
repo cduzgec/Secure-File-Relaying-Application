@@ -1,0 +1,58 @@
+c:\users\ceyda\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+C:\Users\Ceyda\Desktop\client\client\client\bin\Debug\client.exe.config
+C:\Users\Ceyda\Desktop\client\client\client\bin\Debug\client.exe
+C:\Users\Ceyda\Desktop\client\client\client\bin\Debug\client.pdb
+C:\Users\Ceyda\Desktop\client\client\client\obj\Debug\client.Form1.resources
+C:\Users\Ceyda\Desktop\client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Ceyda\Desktop\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Ceyda\Desktop\client\client\client\obj\Debug\client.exe
+C:\Users\Ceyda\Desktop\client\client\client\obj\Debug\client.pdb
+C:\Users\Ceyda\Desktop\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\bin\Debug\client.exe.config
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\obj\Debug\client.exe
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\obj\Debug\client.pdb
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\bin\Debug\client.exe
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\bin\Debug\client.pdb
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\obj\Debug\client.Form1.resources
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\obj\Debug\client.Properties.Resources.resources
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\projeadım1\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\bin\Debug\client.exe.config
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\obj\Debug\client.exe
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\obj\Debug\client.pdb
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\bin\Debug\client.exe
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\bin\Debug\client.pdb
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\obj\Debug\client.Form1.resources
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Ceyda\Desktop\client_officehour\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\bin\Debug\client.exe.config
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\obj\Debug\client.exe
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\obj\Debug\client.pdb
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\bin\Debug\client.exe
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\bin\Debug\client.pdb
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\obj\Debug\client.Form1.resources
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\obj\Debug\client.Properties.Resources.resources
+D:\eski_bilgisayar\akademik\2020-2021 Spring\cs432\proje1-final\client-final\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\berke\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\berke\Desktop\client\client\bin\Debug\client.exe
+C:\Users\berke\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\berke\Desktop\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\berke\Desktop\client\client\obj\Debug\client.Form1.resources
+C:\Users\berke\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\berke\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\berke\Desktop\client\client\obj\Debug\client.exe
+C:\Users\berke\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\onatk\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\onatk\Desktop\client\client\obj\Debug\client.exe
+C:\Users\onatk\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\bin\Debug\client.exe.config
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\obj\Debug\client.exe
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\obj\Debug\client.pdb
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\bin\Debug\client.exe
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\bin\Debug\client.pdb
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\obj\Debug\client.Form1.resources
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Ceyda\Desktop\cduzgec_Duzgec_CigdemCeyda\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
